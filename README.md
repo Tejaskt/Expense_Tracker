@@ -1,6 +1,6 @@
 # Expense Tracker 📊💰
 
-[![GitHub license](https://img.shields.io/github/license/Tejaskt/Expense_Tracker)](https://github.com/Tejaskt/Expense_Tracker/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Tejaskt/Expense_Tracker)](https://github.com/Tejaskt/Expense_Tracker/blob/master/LICENSE)
 
 🌟✨ Welcome to the Expense Tracker project! ✨🌟
 
@@ -58,9 +58,3 @@ To implement this project, the following system hardware and software requiremen
 🌐 **[Explore the Expense Tracker Project](https://github.com/Tejaskt/Expense_Tracker)** 🌐
 
 **Get started and manage your expenses with ease! 🤑📈**
-
-```BASCII
-⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
-🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
-⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
-🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
